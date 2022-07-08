@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @kattya-martinez-telus
+- 👩🏽‍💻 A Salvadorean woman in Tech
 - 👀 I’m interested in Business Intelligence, AI and Frontend Development
 - 💚 OpenJS Node.js Application Developer Certified
 - 🌱 I’m currently learning Webpack and Babel
