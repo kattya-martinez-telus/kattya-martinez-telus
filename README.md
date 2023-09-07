@@ -2,6 +2,7 @@
 - 👩🏽‍💻 A Salvadorean woman in Tech
 - 👀 I’m interested in Business Intelligence, AI and Frontend Development
 - 💚 OpenJS Node.js Application Developer Certified
+- ✨ Registered Scrum Master™ 
 - 🌱 I’m currently learning Webpack and Babel
 
 <!---
